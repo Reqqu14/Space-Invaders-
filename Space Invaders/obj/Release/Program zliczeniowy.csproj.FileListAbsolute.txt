@@ -1,0 +1,6 @@
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\Program zliczeniowy.exe.config
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\Program zliczeniowy.exe
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\Program zliczeniowy.pdb
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\obj\Release\Program zliczeniowy.csprojResolveAssemblyReference.cache
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\obj\Release\Program zliczeniowy.exe
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\obj\Release\Program zliczeniowy.pdb

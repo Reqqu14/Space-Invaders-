@@ -1,0 +1,45 @@
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\Program zliczeniowy.exe.config
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\obj\Release\Program zliczeniowy.exe
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\obj\Release\Program zliczeniowy.pdb
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\blad.wav
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\click.wav
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\end.wav
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\Extreme Metal - Wars of Power.wav
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\UpDown.wav
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\Program zliczeniowy.exe
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\Program zliczeniowy.pdb
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\obj\Release\ProgramZaliczeniowy.csprojResolveAssemblyReference.cache
+C:\Users\Adaś\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\Program zliczeniowy.exe.config
+C:\Users\Adaś\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\obj\Release\Program zliczeniowy.exe
+C:\Users\Adaś\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\obj\Release\Program zliczeniowy.pdb
+C:\Users\Adaś\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\blad.wav
+C:\Users\Adaś\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\click.wav
+C:\Users\Adaś\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\end.wav
+C:\Users\Adaś\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\Extreme Metal - Wars of Power.wav
+C:\Users\Adaś\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\UpDown.wav
+C:\Users\Adaś\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\Program zliczeniowy.exe
+C:\Users\Adaś\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\Program zliczeniowy.pdb
+C:\Users\Adaś\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\obj\Release\ProgramZaliczeniowy.csprojResolveAssemblyReference.cache
+D:\OneDrive\Studia\ROK II\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\blad.wav
+D:\OneDrive\Studia\ROK II\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\click.wav
+D:\OneDrive\Studia\ROK II\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\end.wav
+D:\OneDrive\Studia\ROK II\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\Extreme Metal - Wars of Power.wav
+D:\OneDrive\Studia\ROK II\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\UpDown.wav
+D:\OneDrive\Studia\ROK II\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\Program zliczeniowy.exe.config
+D:\OneDrive\Studia\ROK II\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\Program zliczeniowy.exe
+D:\OneDrive\Studia\ROK II\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\Program zliczeniowy.pdb
+D:\OneDrive\Studia\ROK II\Sem3\Program zliczeniowy\Program zliczeniowy\obj\Release\ProgramZaliczeniowy.csprojResolveAssemblyReference.cache
+D:\OneDrive\Studia\ROK II\Sem3\Program zliczeniowy\Program zliczeniowy\obj\Release\ProgramZaliczeniowy.csproj.CoreCompileInputs.cache
+D:\OneDrive\Studia\ROK II\Sem3\Program zliczeniowy\Program zliczeniowy\obj\Release\Program zliczeniowy.exe
+D:\OneDrive\Studia\ROK II\Sem3\Program zliczeniowy\Program zliczeniowy\obj\Release\Program zliczeniowy.pdb
+C:\Users\Adaś\OneDrive\Studia\ROK II\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\Program zliczeniowy.exe.config
+C:\Users\Adaś\OneDrive\Studia\ROK II\Sem3\Program zliczeniowy\Program zliczeniowy\obj\Release\Program zliczeniowy.exe
+C:\Users\Adaś\OneDrive\Studia\ROK II\Sem3\Program zliczeniowy\Program zliczeniowy\obj\Release\Program zliczeniowy.pdb
+C:\Users\Adaś\OneDrive\Studia\ROK II\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\blad.wav
+C:\Users\Adaś\OneDrive\Studia\ROK II\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\click.wav
+C:\Users\Adaś\OneDrive\Studia\ROK II\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\end.wav
+C:\Users\Adaś\OneDrive\Studia\ROK II\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\Extreme Metal - Wars of Power.wav
+C:\Users\Adaś\OneDrive\Studia\ROK II\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\UpDown.wav
+C:\Users\Adaś\OneDrive\Studia\ROK II\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\Program zliczeniowy.exe
+C:\Users\Adaś\OneDrive\Studia\ROK II\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Release\Program zliczeniowy.pdb
+C:\Users\Adaś\OneDrive\Studia\ROK II\Sem3\Program zliczeniowy\Program zliczeniowy\obj\Release\ProgramZaliczeniowy.csprojResolveAssemblyReference.cache

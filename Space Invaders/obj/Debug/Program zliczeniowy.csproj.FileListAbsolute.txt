@@ -1,0 +1,22 @@
+E:\C#\Program zliczeniowy\Program zliczeniowy\bin\Debug\Program zliczeniowy.exe.config
+E:\C#\Program zliczeniowy\Program zliczeniowy\obj\Debug\Program zliczeniowy.csprojResolveAssemblyReference.cache
+E:\C#\Program zliczeniowy\Program zliczeniowy\bin\Debug\Program zliczeniowy.exe
+E:\C#\Program zliczeniowy\Program zliczeniowy\bin\Debug\Program zliczeniowy.pdb
+E:\C#\Program zliczeniowy\Program zliczeniowy\obj\Debug\Program zliczeniowy.exe
+E:\C#\Program zliczeniowy\Program zliczeniowy\obj\Debug\Program zliczeniowy.pdb
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Debug\Program zliczeniowy.exe.config
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\obj\Debug\Program zliczeniowy.exe
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\obj\Debug\Program zliczeniowy.pdb
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Debug\Program zliczeniowy.exe
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Debug\Program zliczeniowy.pdb
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\obj\Debug\Program zliczeniowy.csprojResolveAssemblyReference.cache
+C:\Users\Adaś\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Debug\Program zliczeniowy.exe.config
+C:\Users\Adaś\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\obj\Debug\Program zliczeniowy.exe
+C:\Users\Adaś\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\obj\Debug\Program zliczeniowy.pdb
+C:\Users\Adaś\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Debug\Program zliczeniowy.exe
+C:\Users\Adaś\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Debug\Program zliczeniowy.pdb
+C:\Users\Adaś\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\obj\Debug\Program zliczeniowy.csprojResolveAssemblyReference.cache
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Debug\Extreme Metal - Wars of Power.wav
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Debug\blad.wav
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Debug\click.wav
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Debug\UpDown.wav

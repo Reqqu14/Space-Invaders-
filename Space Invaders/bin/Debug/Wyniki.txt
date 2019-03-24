@@ -1,0 +1,4 @@
+Adam;10
+Gienek;15
+Zosia;13
+Kasia;11

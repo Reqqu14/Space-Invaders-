@@ -1,0 +1,34 @@
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Debug\blad.wav
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Debug\click.wav
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Debug\Extreme Metal - Wars of Power.wav
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Debug\UpDown.wav
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Debug\Program zliczeniowy.exe.config
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Debug\Program zliczeniowy.exe
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Debug\Program zliczeniowy.pdb
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\obj\Debug\Program zliczeniowy.exe
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\obj\Debug\Program zliczeniowy.pdb
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Debug\end.wav
+E:\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\obj\Debug\ProgramZaliczeniowy.csprojResolveAssemblyReference.cache
+C:\Users\Adaś\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Debug\Program zliczeniowy.exe.config
+C:\Users\Adaś\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\obj\Debug\Program zliczeniowy.exe
+C:\Users\Adaś\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\obj\Debug\Program zliczeniowy.pdb
+C:\Users\Adaś\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Debug\blad.wav
+C:\Users\Adaś\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Debug\click.wav
+C:\Users\Adaś\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Debug\end.wav
+C:\Users\Adaś\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Debug\Extreme Metal - Wars of Power.wav
+C:\Users\Adaś\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Debug\UpDown.wav
+C:\Users\Adaś\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Debug\Program zliczeniowy.exe
+C:\Users\Adaś\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\bin\Debug\Program zliczeniowy.pdb
+C:\Users\Adaś\OneDrive\Sem3\Program zliczeniowy\Program zliczeniowy\obj\Debug\ProgramZaliczeniowy.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\Desktop\Program zliczeniowy\Program zliczeniowy\bin\Debug\blad.wav
+C:\Users\Tomek\Desktop\Program zliczeniowy\Program zliczeniowy\bin\Debug\click.wav
+C:\Users\Tomek\Desktop\Program zliczeniowy\Program zliczeniowy\bin\Debug\end.wav
+C:\Users\Tomek\Desktop\Program zliczeniowy\Program zliczeniowy\bin\Debug\Extreme Metal - Wars of Power.wav
+C:\Users\Tomek\Desktop\Program zliczeniowy\Program zliczeniowy\bin\Debug\UpDown.wav
+C:\Users\Tomek\Desktop\Program zliczeniowy\Program zliczeniowy\bin\Debug\Program zliczeniowy.exe.config
+C:\Users\Tomek\Desktop\Program zliczeniowy\Program zliczeniowy\bin\Debug\Program zliczeniowy.exe
+C:\Users\Tomek\Desktop\Program zliczeniowy\Program zliczeniowy\bin\Debug\Program zliczeniowy.pdb
+C:\Users\Tomek\Desktop\Program zliczeniowy\Program zliczeniowy\obj\Debug\ProgramZaliczeniowy.csprojAssemblyReference.cache
+C:\Users\Tomek\Desktop\Program zliczeniowy\Program zliczeniowy\obj\Debug\ProgramZaliczeniowy.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\Desktop\Program zliczeniowy\Program zliczeniowy\obj\Debug\Program zliczeniowy.exe
+C:\Users\Tomek\Desktop\Program zliczeniowy\Program zliczeniowy\obj\Debug\Program zliczeniowy.pdb
